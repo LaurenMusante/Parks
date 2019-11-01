@@ -22,7 +22,7 @@ _Questions, comments, and feedback, please email: Lauren.Musante@gmail.com_
 
 ## Technologies Used
 
-_.NET Core, C#, Swagger_
+_C#/.NET Core, Swagger_
 
 ### License
 
