@@ -17,5 +17,8 @@ namespace Parks.Models
         [Required]
         [Range(1, 10, ErrorMessage = "Rating must land between 1 and 10")]
         public int Rating { get; set; }
+        [Required]
+        [StringLength(50)]
+        public string Activities { get; set; }
     }
 }
