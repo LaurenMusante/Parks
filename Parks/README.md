@@ -10,7 +10,7 @@ _This is an API containing information about both State and National parks in th
 
 ## Setup/Installation Requirements
 
-_Clone [this repository](https://github.com/LaurenMusante/Parks) to your desktop. Navigate to the root directory, Parks.Solution in Terminal. Then navigate to the project folder, "Parks". Run "dotnet ef database update", then run "dotnet run" in the terminal. Navigate to http://localhost5000/swagger in order to explore the API with a handy user interface. Alternatively, run a GET request in Postman with [this link](http://localhost:5000/api/parks/) to see the full database. Look in ParksControllers.cs for infomration about how to more specifically navigate the API_
+_Clone [this repository](https://github.com/LaurenMusante/Parks) to your desktop. Navigate to the root directory, Parks.Solution in Terminal. Then navigate to the project folder, "Parks". Run "dotnet ef database update", then run "dotnet run" in the terminal. Navigate to http://localhost5000/swagger in order to explore the API with a handy user interface. Alternatively, run a GET request in Postman using http://localhost:5000/api/parks/ to see the full database. Look in ParksControllers.cs for infomration about how to more specifically navigate the API_
 
 ## Known Bugs
 
