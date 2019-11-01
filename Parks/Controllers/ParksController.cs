@@ -33,7 +33,7 @@ namespace Parks.Controllers
         query = query.Where(entry=>entry.StateOrNational == stateOrNational);
       }
         
-        if(state !=null)
+      if(state !=null)
       {
         query = query.Where(entry=>entry.State == state);
       }
