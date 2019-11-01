@@ -1,6 +1,6 @@
 # _Parks_
 
-#### _A State/National Parks API November 1, 2019_
+#### _A State/National Park API November 1, 2019_
 
 #### By _**Lauren Musante**_
 
